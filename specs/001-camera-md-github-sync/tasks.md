@@ -155,3 +155,5 @@ description: "Task list for 001-camera-md-github-sync — camera-md-sync CLI"
 - 所有任务描述中的路径均基于绝对根 `E:\cursor\Camera\`；克隆到其他机器时请替换前缀。  
 - 若实现 **research.md 方案 B**（笔记目录与克隆分离），需新增任务调整 `git_sync` 与 `paths`，本列表默认 **方案 A**。  
 - 提交：建议每完成一个 User Story 打一个 checkpoint tag 或 PR，便于独立演示。
+
+<!-- camera-md-sync: 测试同步至 GitHub Camera_database（2026-03-30） -->
